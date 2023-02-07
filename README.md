@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 -  Instagram: @hardikt29
 -  Twitter: @hardikt29
--  Mail: hardik@hitekfoundation.in
+-  Mail: hardik@hitekfoundation.co.in
 
 <!---
 hardikt29/hardikt29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
