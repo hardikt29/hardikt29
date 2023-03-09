@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardikt29
 - 👀 I’m interested in Implementing new ideas to my coding.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me:
 -  Instagram: @hardikt29
 -  Twitter: @hardikt29
