@@ -11,7 +11,8 @@ I'm always on the lookout for new coding challenges and innovative ideas to impl
 You can reach out to me through various channels:
 
 - **Instagram:** [@hardikktiwari](https://instagram.com/hardikktiwari)
+- **Telegram:** [@itiwarihardik](https://t.me/@itiwarihardik)
 - **Twitter:** [@hardikt29](https://twitter.com/hardikt29)
-- **Email:** [hardik@hitekfoundation.co.in](mailto:hardik@hitekfoundation.co.in)
+- **Email:** [hardiktiwari@workmail.com](mailto:hardiktiwari@workmail.com)
 
 Feel free to drop me a message or connect with me on social media. Let's collaborate and create something amazing together! 🚀
