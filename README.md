@@ -10,21 +10,8 @@ I'm always on the lookout for new coding challenges and innovative ideas to impl
 
 You can reach out to me through various channels:
 
-- **Instagram:** <span id="instagram">@hardikktiwari</span> <button onclick="copyToClipboard('instagram')">Copy</button>
-- **Twitter:** <span id="twitter">@hardikt29</span> <button onclick="copyToClipboard('twitter')">Copy</button>
-- **Email:** <span id="email">hardik@hitekfoundation.co.in</span> <button onclick="copyToClipboard('email')">Copy</button>
+- **Instagram:** [@hardikktiwari](https://instagram.com/hardikktiwari)
+- **Twitter:** [@hardikt29](https://twitter.com/hardikt29)
+- **Email:** [hardik@hitekfoundation.co.in](mailto:hardik@hitekfoundation.co.in)
 
 Feel free to drop me a message or connect with me on social media. Let's collaborate and create something amazing together! 🚀
-
-<script>
-function copyToClipboard(id) {
-  var text = document.getElementById(id).innerText;
-  var input = document.createElement('textarea');
-  input.innerHTML = text;
-  document.body.appendChild(input);
-  input.select();
-  document.execCommand('copy');
-  document.body.removeChild(input);
-  alert('Copied ' + id + ' to clipboard: ' + text);
-}
-</script>
