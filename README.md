@@ -2,7 +2,7 @@
 - 👀 I’m interested in Implementing new ideas to my coding.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me:
--  Instagram: ```[@hardikktiwari](https://instgram.com/@hardikktiwari)```
+-  Instagram: @hardikktiwari
 -  Twitter: @hardikt29
 -  Mail: hardik@hitekfoundation.co.in
 
