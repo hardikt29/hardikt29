@@ -23,7 +23,7 @@ Here are some of the projects I've been working on:
 <ul>
   <li><strong>Anon Blog</strong>: An anonymous blogging platform using Expo and Supabase.</li>
   <li><strong>Lucidia</strong>: A comprehensive app for note-taking, journaling, and public blogging with rich Markdown support.</li>
-  <li><strong>Ground-based Observations vs Landsat Data</strong>: A web app to compare observations with Landsat SR data.</li>
+  <li><strong>Ground-based Observations vs Landsat Data</strong>: A web app to compare observations with Landsat SR data.(Pre-Alpha)</li>
 </ul>
 Feel free to check out my <a href="https://github.com/hardikt29" style="color: #ff79c6; text-decoration: none; font-weight: bold; text-shadow: 0 0 10px #ff79c6;">GitHub</a> for more!
 </p>
